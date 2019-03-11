@@ -1,0 +1,6 @@
+export const FETCH_REQUEST = 'FETCH_REQUEST'
+export const CLEAR_SCREEN = 'CLEAR_SCREEN'
+
+export const DURING_FETCH = 'DURING_FETCH'
+export const FETCH_SUCCEED = 'FETCH_SUCCEED'
+export const FETCH_FAILED = 'FETCH_FAILED'
